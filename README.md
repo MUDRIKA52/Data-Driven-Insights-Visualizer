@@ -70,4 +70,10 @@ Check out the screen recording in the repository to see the project in action!
 - **Operational Efficiency:** Monitor and improve performance metrics.  
 
 ---
+📣 Contributing
+Contributions are welcome! If you have ideas for improvement or find issues, please submit a pull request or open an issue.
+
+📬 Connect
+Feel free to reach out via LinkedIn or email to discuss the project, share feedback, or collaborate on future endeavors.
+
 
